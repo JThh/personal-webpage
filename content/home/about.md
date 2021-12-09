@@ -1,21 +1,14 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
 active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 20
-
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
+widget_id: hh
+headless: true
+weight: 0
+title: Biography
+design:
+  background:
+    image: portfolio.jpeg
+    image_darken: 0
 ---
+My name is Han Jiatong, a third-year undergraduate from the National University of Singapore. I am an AI researcher, vastly interested in graph representation learning, recommender systems, parallel computing. My current work is to construct a knowledge-based course recommender system for university, supervised by [Prof. Kan Min-Yen](https://www.comp.nus.edu.sg/~kanmy/), co-advised by Ph.D. students [Lu Xinyuan](https://www.linkedin.com/in/xinyuan-lu-34762585/?originalSubdomain=sg) and [Victor, Li Chuang](https://xiaowudeshen.github.io/about/). My recent goal is to seek to generalize our approach and make our model apply to other recommendation scenarios. I am open to research assistant positions, and potential 2023-24 Doctoral study opportunities.
